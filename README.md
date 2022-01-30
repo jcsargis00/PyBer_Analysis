@@ -23,7 +23,7 @@ The total rides for each city type were 125 (rural), 625 (suburban) and 1625 (ur
 #
 ![total rider](https://github.com/jcsargis00/PyBer_Analysis/blob/main/Resources/totalrides.PNG)
 #
-The total drivers number of drivers for each city type were 78 (rural), 490 (suburban) 
+The total number of drivers for each city type were 78 (rural), 490 (suburban) 
 and 2405 (urban).
 #
 ![total drivers](https://github.com/jcsargis00/PyBer_Analysis/blob/main/Resources/totaldrivers.PNG)
