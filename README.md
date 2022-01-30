@@ -7,6 +7,9 @@ ride data provided by PyBer.
 Cities were categorized as urban, suburban or rural.
 Fares were tracked by driver, city, average fare and total fare.
 
+Data differences in the different types of cities will be summarized for PyBer decision
+makers to make changes to address the findings.
+
 A summary follows the findings with recommendations to address disparites found amongst the differing city types.
 ### Analysis
 #### Overview
