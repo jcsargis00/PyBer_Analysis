@@ -64,6 +64,7 @@ Data collected by city type is shown below in the figure titled "Total Fare by C
 * Average fares per ride were higher in rural city types.
 * Fares peaked from the last week of February in all city types.  
 * Fares peaked through the first week in March in urban areas.
+* Fares peaked on April 1st in rural areas.
 * Total fares were consistently lower in rural areas and suburban areas. 
 * The number of drivers was also lowest in rural areas.  
 * The higher cost per ride in rural areas could be a factor in less usage
