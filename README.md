@@ -40,12 +40,11 @@ and $16.57 (urban).
 #
 ![avg fare driver](https://github.com/jcsargis00/PyBer_Analysis/blob/main/Resources/avgfareperdriver.PNG)
 #
-The total fare for each city type was $4,327.93 (rural), $19,356.33 (suburban), and 
-$39,854.38 (urban).
-#
-![total fare](https://github.com/jcsargis00/PyBer_Analysis/blob/main/Resources/totalfarecitydriver.PNG)
 
 #### Differences in ride-shaing data amoungst the different city types
+Urban rides were 68% of total rides, suburban rides were 26% while rural rides were 5% of
+the total rides
+![pie chart rides/city](https://github.com/jcsargis00/PyBer_Analysis/blob/main/Resources/numberridespie.PNG)
 #### Ride-sharing data
 
 #### Summary - Addressing disparities amongst the city types
