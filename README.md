@@ -81,4 +81,6 @@ per city type and changing pricing structure for fares based on distance
     - Urban cities - hire less drivers to increase demand and increase average fare price
     - Urban cities - minimum charge fore short trips?  surcharge for waiting in traffic?
     - Rural and suburban cities - hire more drivers to drive average fare prices down and increase usage
+    - Study peak times of day per city type
+    - Should prices be increased during peak days or times
     - Which cities are underserved?  Do these areas have a smaller percentage of drivers?
