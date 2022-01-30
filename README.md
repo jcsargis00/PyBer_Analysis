@@ -62,7 +62,8 @@ the other city types.
 Data collected by city type is shown below in the figure titled "Total Fare by City Type."
 * PyBer ridesharing service is used much more in urban city types.
 * Average fares per ride were higher in rural city types.
-* Fares peaked from the last week of February through the first week in March in all city types.  
+* Fares peaked from the last week of February in all city types.  
+* Fares peaked through the first week in March in urban areas.
 * Total fares were consistently lower in rural areas and suburban areas. 
 * The number of drivers was also lowest in rural areas.  
 * The higher cost per ride in rural areas could be a factor in less usage
