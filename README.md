@@ -42,8 +42,13 @@ and $16.57 (urban).
 #
 
 #### Differences in ride-shaing data amoungst the different city types
-Urban rides were 68% of total rides, suburban rides were 26% while rural rides were 5% of
-the total rides
+Urban rides comprised 68% of total rides, while suburban rides were 26%, and rural rides
+were only 5%.  However, average fares in rural areas were much higher and the average fare
+per ride was also higher in rural areas.  This could be due to shorter length of rides
+in urban areas, an area to look into if the data is available.  Total fares by area
+were much higher in urban areas, due to the volume of rides and drivers, compared to 
+the other city types.  
+#
 ![pie chart rides/city](https://github.com/jcsargis00/PyBer_Analysis/blob/main/Resources/numberridespie.PNG)
 #### Ride-sharing data
 
@@ -51,9 +56,21 @@ the total rides
 #
 ![summary](https://github.com/jcsargis00/PyBer_Analysis/blob/main/Resources/summary.PNG)
 #
-Figure
+Data collected by city type is shown below in the figure titled "Total Fare by City Type."
+* PyBer ridesharing service is used much more in urban city types.
+* Average fares per ride were higher in rural city types.
+* Fares peaked from the last week of February in all city types.  
+* Total fares were consistently lower in rural areas and suburban areas. 
+* The number of drivers was also lowest in rural areas.  
+* The higher cost per ride in rural areas could be a factor in less usage
 #
 ![Summary figure](https://github.com/jcsargis00/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
-    * 1.
-    * 2.
-    * 3.
+    
+There may be opportunities to expand PyBer ridesharing in rural and suburban cities
+* Based on the findings, consider pricing per fare changes by city type
+* Gather additional data to see length of rides, does it effect pricing
+* Survey drivers - are rural drivers underpaid, would there be more with higher salaries
+    * Is the # of drivers or the pricing effecting the business bottom line in each city type?
+    * If yes, possible solutions:
+    - Urban cities - hire less drivers to increase demand and increase average fare price
+    - Rural cities - hire more drivers to drive average fare prices down and increase usage
