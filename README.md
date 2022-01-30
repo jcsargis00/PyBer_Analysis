@@ -1,7 +1,7 @@
 # PyBer_Analysis
 ### Background
 This report has been prepared for V. Isualize to summarize data trends found in an in-depth
-analysis of the multi-city PyBer ride sharing company city.  The analysis used city and 
+analysis of the multi-city PyBer ride sharing company data troves.  The analysis used city and 
 ride data provided by PyBer.
 
 Cities were categorized as urban, suburban or rural.
@@ -66,11 +66,14 @@ Data collected by city type is shown below in the figure titled "Total Fare by C
 #
 ![Summary figure](https://github.com/jcsargis00/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
     
-There may be opportunities to expand PyBer ridesharing in rural and suburban cities
+There may be opportunities to expand PyBer ridesharing with changes in the number of drivers
+per city type and changing pricing structure for fares based on distance
 * Based on the findings, consider pricing per fare changes by city type
 * Gather additional data to see length of rides, does it effect pricing
 * Survey drivers - are rural drivers underpaid, would there be more with higher salaries
     * Is the # of drivers or the pricing effecting the business bottom line in each city type?
     * If yes, possible solutions:
     - Urban cities - hire less drivers to increase demand and increase average fare price
-    - Rural cities - hire more drivers to drive average fare prices down and increase usage
+    - Urban cities - minimum charge fore short trips?  surcharge for waiting in traffic?
+    - Rural and suburban cities - hire more drivers to drive average fare prices down and increase usage
+    - Which cities are underserved?  Do these areas have a smaller percentage of drivers?
