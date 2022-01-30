@@ -7,7 +7,7 @@ ride data provided by PyBer.
 Cities were categorized as urban, suburban or rural.
 Fares were tracked by driver, city, average fare and total fare.
 
-A summary follows the findings with recommendations to address disparites found Dataamongst the city types.
+A summary follows the findings with recommendations to address disparites found amongst the differing city types.
 ### Analysis
 #### Overview
 Pandas functions were used to create a customized PyBer data frame.  From the data frame,
